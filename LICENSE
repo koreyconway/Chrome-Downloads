@@ -1,0 +1,54 @@
+The Prosperity Public License 2.0.0
+
+Contributor: Korey Conway
+
+Source Code: https://github.com/koreyconway/Chrome-Downloads
+
+This license lets you use and share this software for free,
+with a trial-length time limit on commercial use. Specifically:
+
+If you follow the rules below, you may do everything with this
+software that would otherwise infringe either the contributor's
+copyright in it, any patent claim the contributor can license
+that covers this software as of the contributor's latest
+contribution, or both.
+
+1. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage or
+   private monetary compensation to a trial period of 32
+   consecutive calendar days. This limit does not apply to use in
+   developing feedback, modifications, or extensions that you
+   contribute back to those giving this license.
+
+2. Ensure everyone who gets a copy of this software from you, in
+   source code or any other form, gets the text of this license
+   and the contributor and source code lines above.
+
+3. Do not make any legal claim against anyone for infringing any
+   patent claim they would infringe by using this software alone,
+   accusing this software, with or without changes, alone or as
+   part of a larger application.
+
+You are excused for unknowingly breaking rule 1 if you stop
+doing anything requiring this license within 30 days of
+learning you broke the rule.
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, the contributor will not be liable for any
+damages related to this software or this license, for any kind of
+legal claim.**
+
+
+---
+
+Licensor Signature (Ed25519):
+
+9602fd6caaa2b9930bf4468a9beaf0b0f46f68a1f781e8f19a8b40c9a261af2e
+34334e674f3856f6ec1ed29f6fd8b978b3e3f15184af1cd51beccb7377026105
+
+---
+
+Agent Signature (Ed25519):
+
+397925069211a712dd08f8a2fd01895ef1449bb8234568b97634c90e5ab3d547
+78ea6e3427bf12cfe5a831363ba24ebb15aecc83d63c599c1847551766282904

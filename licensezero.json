@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "licensezero": [
+    {
+      "agentSignature": "1b9681c10e263dfe68769e1f77f7ea23a9b861a2ace3406982394256099660d0e91552e7f49f11e7466e7b0e205fadcddb7ee9fdbf6c164b8af439d3d8033609",
+      "license": {
+        "homepage": "https://github.com/koreyconway/Chrome-Downloads",
+        "jurisdiction": "CA-QC",
+        "name": "Korey Conway",
+        "projectID": "dbfcb541-d54c-4a7b-8693-3f7af5db5926",
+        "publicKey": "ad2317a6f6da73afc1bf1aad8574f6b86ddf590b1436835bcc76aa7d68546e05",
+        "terms": "prosperity",
+        "version": "2.0.0"
+      },
+      "licensorSignature": "fe21e9de35ad16937d003aa175263e465d34f76e7e586e7a96811a09d74220f5bedd1a245ef3f92436e62c1eb00d2c1acb005612386db4891800249d87145a0f"
+    }
+  ]
+}

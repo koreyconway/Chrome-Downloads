@@ -1,13 +1,11 @@
 # Downloads
 Button to open the downloads page
 
-# Get Started
+## Get Started
 Install in chrome as an extension
 
-# How to use
+## How to use
     - Click the extension icon/button
 
-## Possible Future Features
-    - trigger+middle click to cycle through tabs with MRU
-
 ## Features
+    - if there is already a downloads tab in the current window, it will focus that tab
